@@ -3,7 +3,9 @@
     "pages/index/index",
     "pages/my/my",
     "pages/write/write",
-    "pages/login/login"
+    "pages/login/login",
+    "pages/editArt/editArt",
+    "pages/info/info"
   ],
   "subPackages": [],
   "window": {

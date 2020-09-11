@@ -14,5 +14,5 @@
 
 <style>
 	/*每个页面公共css */
-	@import url("graceUI/graceUI.css");
+	@import 'graceUI/graceUI.css';
 </style>

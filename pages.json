@@ -24,7 +24,18 @@
 				"navigationBarTitleText": "登录"
 			}
 		}
-	],
+	    ,{
+            "path" : "pages/editArt/editArt",
+            "style" : {
+				"navigationBarTitleText": "编辑"
+			}
+        } ,{
+            "path" : "pages/info/info",
+            "style" : {
+				"navigationBarTitleText": "详情"
+			}
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
